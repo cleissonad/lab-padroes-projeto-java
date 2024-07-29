@@ -5,6 +5,7 @@ public class CepApi {
 	private static CepApi instancia = new CepApi();
 
 	private CepApi() {
+		
 		super();
 	}
 

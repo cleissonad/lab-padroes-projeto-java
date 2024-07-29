@@ -9,6 +9,7 @@ import one.digital.innovation.gof.one.digitalinnovation.gof.strategy.Robo;
 import one.digitalinnovation.gof.singleton.SingletonLazyHolder;
 
 
+
 public class Test {
 
 	public static void main(String[] args) {
